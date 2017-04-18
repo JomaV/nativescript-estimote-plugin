@@ -1,4 +1,4 @@
-***Original repository: "https://github.com/JomaV/nativescript-estimote-plugin.git"***
+***Original repository: "https://www.npmjs.com/package/nativescript-estimote-sdk"***
 
 # Estimote Plugin for NativeScript
 
