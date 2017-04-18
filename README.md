@@ -1,3 +1,5 @@
+***Original repository: "https://github.com/JomaV/nativescript-estimote-plugin.git"***
+
 # Estimote Plugin for NativeScript
 
 Estimote Beacon is a super small device. It has a powerful 32-bit ARM® Cortex M0 CPU with 256kB flash memory, accelerometer, temperature sensor and most importantly – a 2.4 GHz Bluetooth 4.0 Smart (also known as BLE or Bluetooth low energy) bidirectional radio.
